@@ -13,8 +13,7 @@
 - 🎓 BS Information Technology, IETI College of Science & Technology (June 2026)  
 - 💻 Hands-on experience in web development, database management, and software testing through academic projects and internship work  
 - 🌱 Skilled in **PHP, Laravel, MySQL, and JavaScript**, with a strong foundation in problem solving and technical documentation  
-- 🎯 Eager to contribute to IT teams in a **developer, support, or technical role**  
-- ⚡ Immediately available for full-time employment  
+- 🎯 Eager to contribute to IT teams in a **developer, support, or technical role**   
 
 ---
 
