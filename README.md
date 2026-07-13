@@ -51,7 +51,7 @@ Network Troubleshooting • Software Configuration • Hardware Diagnostics
 
 ### 🚀 Featured Project
 
-**[Pediatric Vaccine Tracker System with SMS Notification](#)** — Individual Capstone (2025–2026)
+**[Pediatric Vaccine Tracker System with SMS Notification]** — Individual Capstone (2025–2026)
 - Full-stack web app built with **PHP (Laravel)** and **MySQL** to manage pediatric vaccination records with automated SMS reminders
 - Implemented user authentication, CRUD operations, and notification triggers
 - Tested and resolved 30+ bugs before deployment
